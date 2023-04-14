@@ -28,4 +28,4 @@ Local version of TREC clinical dataset 2021
 
 1. Open the search-engine-client folder in a text-editor / IDE or terminal of your choice. 
 2. Install the requirements (npm i)
-3. Enable the "client-side" element of the system. (npm run dev)
+3. Enable the "client-side" element of the system. (npm run serve)
